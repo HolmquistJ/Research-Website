@@ -1,0 +1,26 @@
+---
+output: html_document
+---
+
+<script>
+   $(document).ready(function() {
+     $head = $('#header');
+     $head.prepend('<img src=\"images/vrYp_2Pp_400x400.jpg" style=\"float: right;width: 150px;\"/>')
+   });
+</script>
+
+</br>
+I am a wetlands ecologist focused on the carbon cycle and resiliency issues. My projects tend to involve large spatial scales and so my skills include GIS, remote sensing, data syntheses and coding. I also love community building and facilitating collaborations.
+
+Wetlands are an important part of the carbon cycle because they both remove CO<sub>2</sub> from the atmosphere, storing it short-term in biomass and long-term in soils, and emit CH<sub>4</sub>. However, it is uncertain how climate change, sea-level rise, and development will affect wetland stability. My goals are to research the drivers and interactions affecting carbon cycling in wetlands to determine how resilient they are to climate change and to account for ecosystem service changes associated with their loss and restoration.
+
+I earned my Ph.D. from University of California, where my work dealt with long-term carbon storage in Canadian peatlands, which are currently subject to increased growing season length and intensity. My two postdoctoral appointments at UCLA and at Smithsonian Environmental Research Center (SERC) dealt with different, but interconnected, aspects of coastal soil dynamics, wetlands’ ability to form new soil mass and maintain an adaptive resiliency to sea-level rise, and the fact that soil formation makes them an effective carbon sink. During my postdoctoral work, I transitioned from a focus on site-specific studies and paleoenvironmental methods towards building synthetic datasets and connecting them to landscape scale phenomena using remotely sensed data, advanced statistics, and modeling.
+
+Now at SERC I manage the Coastal Carbon Research Coordination Network, an NSF Funded project dedicated to accelerating the pace of discovery in coastal wetland carbon science by providing our community with access to data, analysis tools, and synthesis opportunities. Project highlights from 2018 include issuing guidence for new coastal soil carbon synthesis, development of a mapping interface for accessing over 3,000 soil cores from around the world, and the assembling of and progress made by our Soils Working Group.
+
+<center>
+[__GitHub__](https://github.com/holmquistj) | [__GoogleScholar__](https://scholar.google.com/citations?user=dUNNxpMAAAAJ&hl=en) | [__ORCID__](https://orcid.org/0000-0003-2546-6766) | [__ResearchGate__](https://www.researchgate.net/profile/James_Holmquist) | [__Twitter__](http://twitter.com/yamjolmqvist)
+</center>
+  
+
+

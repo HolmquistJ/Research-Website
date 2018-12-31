@@ -1,0 +1,343 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+<meta charset="utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="generator" content="pandoc" />
+
+
+
+
+<title>Data Visualizations</title>
+
+<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-1.1/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-1.1/highlight.js"></script>
+
+<style type="text/css">code{white-space: pre;}</style>
+<style type="text/css">
+  pre:not([class]) {
+    background-color: white;
+  }
+</style>
+<script type="text/javascript">
+if (window.hljs && document.readyState && document.readyState === "complete") {
+   window.setTimeout(function() {
+      hljs.initHighlighting();
+   }, 0);
+}
+</script>
+
+
+
+<style type="text/css">
+h1 {
+  font-size: 34px;
+}
+h1.title {
+  font-size: 38px;
+}
+h2 {
+  font-size: 30px;
+}
+h3 {
+  font-size: 24px;
+}
+h4 {
+  font-size: 18px;
+}
+h5 {
+  font-size: 16px;
+}
+h6 {
+  font-size: 12px;
+}
+.table th:not([align]) {
+  text-align: left;
+}
+</style>
+
+
+</head>
+
+<body>
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+code {
+  color: inherit;
+  background-color: rgba(0, 0, 0, 0.04);
+}
+img {
+  max-width:100%;
+  height: auto;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+</style>
+
+
+<style type="text/css">
+/* padding for bootstrap navbar */
+body {
+  padding-top: 51px;
+  padding-bottom: 40px;
+}
+/* offset scroll position for anchor links (for fixed navbar)  */
+.section h1 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+
+.section h2 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h3 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h4 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h5 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h6 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+</style>
+
+<script>
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark it active
+  menuAnchor.parent().addClass('active');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
+});
+</script>
+
+
+<div class="container-fluid main-container">
+
+<!-- tabsets -->
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+</script>
+
+<!-- code folding -->
+
+
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">James R Holmquist</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="index.html">Home</a>
+</li>
+<li>
+  <a href="cv.html">Cirriculum Vitae</a>
+</li>
+<li>
+  <a href="data_visualizations.html">Data Visualizations</a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div class="fluid-row" id="header">
+
+
+
+<h1 class="title toc-ignore">Data Visualizations</h1>
+
+</div>
+
+
+<p><br/> <strong>Here are a few highlightes from recent papers and projects which show some simple and powerful visualizations of complex coastal wetland datasets.</strong> <br/></p>
+<div id="accuracy-and-precision-of-tidal-wetland-soil-carbon-mapping-in-the-conterminous-united-states" class="section level1">
+<h1>Accuracy and Precision of Tidal Wetland Soil Carbon Mapping in the Conterminous United States</h1>
+<p><br/></p>
+<p><strong>Citation:</strong> Holmquist, J. R., Windham-Myers, L., Bliss, N., Crooks, S., Morris, J. T., Megonigal, J. P., … &amp; Ferner, M. C. (2018). Accuracy and Precision of Tidal Wetland Soil Carbon Mapping in the Conterminous United States. Scientific Reports, 8(1), 9478. <a href="https://doi.org/10.1038/s41598-018-26948-7" class="uri">https://doi.org/10.1038/s41598-018-26948-7</a></p>
+<p><strong>Abstract:</strong> Tidal wetlands produce long-term soil organic carbon (C) stocks. Thus for carbon accounting purposes, we need accurate and precise information on the magnitude and spatial distribution of those stocks. We assembled and analyzed an unprecedented soil core dataset, and tested three strategies for mapping carbon stocks: applying the average value from the synthesis to mapped tidal wetlands, applying models fit using empirical data and applied using soil, vegetation and salinity maps, and relying on independently generated soil carbon maps. Soil carbon stocks were far lower on average and varied less spatially and with depth than stocks calculated from available soils maps. Further, variation in carbon density was not well-predicted based on climate, salinity, vegetation, or soil classes. Instead, the assembled dataset showed that carbon density across the conterminous united states (CONUS) was normally distributed, with a predictable range of observations. We identified the simplest strategy, applying mean carbon density (27.0 kg C m<sup>−3</sup>), as the best performing strategy, and conservatively estimated that the top meter of CONUS tidal wetland soil contains 0.72 petagrams C. This strategy could provide standardization in CONUS tidal carbon accounting until such a time as modeling and mapping advancements can quantitatively improve accuracy and precision.</p>
+<p><br/></p>
+<div id="variability-in-coastal-carbon-stocks" class="section level2">
+<h2>Variability in Coastal Carbon Stocks</h2>
+<p><br/></p>
+<div class="figure">
+<img src="images/Anova%20Figure%206p25%20by%203%20180301.jpg" alt="(A) Adjusted effect sizes (ω2) for each fixed effect in model 1. (B) Probability density for carbon stocks across soil type and climate, the two factors with the greatest effect sizes in model 1." width="600" />
+<p class="caption">(A) Adjusted effect sizes (ω<sup>2</sup>) for each fixed effect in model 1. (B) Probability density for carbon stocks across soil type and climate, the two factors with the greatest effect sizes in model 1.</p>
+</div>
+<p><br/></p>
+</div>
+<div id="efficacy-of-mapping-techniques" class="section level2">
+<h2>Efficacy of Mapping Techniques</h2>
+<p><br/></p>
+<div class="figure">
+<img src="images/Target%20Diagrams%203p75%20by%207p25%20180304.jpg" alt="Target Diagrams as outlined by Joliff et al. The x-axis represents unbiased root mean square error (RMSE’), a metric of precision. RMSE’ closer to 0 indicate greater precision. RMSE’ is artificially signed to show whether the modeled (m) or reference (r) dataset has the greater standard deviation (σ). The y-axis shows Bias, a metric of accuracy. Bias values closer to 0 indicate greater accuracy. Positive values indicate the model values are too high, negative values indicate model values are too low. The circles represent total root mean square error (RMSE). All indices have been standardized (*) by σr. RMSE* values less than 1 σr (bold circle) indicate that the model performs better than the average of the reference dataset. Thinner circles represent RMSE* values of 2, 3, and 4 σr for reference." width="360" />
+<p class="caption">Target Diagrams as outlined by Joliff et al. The x-axis represents unbiased root mean square error (RMSE’), a metric of precision. RMSE’ closer to 0 indicate greater precision. RMSE’ is artificially signed to show whether the modeled (m) or reference (r) dataset has the greater standard deviation (σ). The y-axis shows Bias, a metric of accuracy. Bias values closer to 0 indicate greater accuracy. Positive values indicate the model values are too high, negative values indicate model values are too low. The circles represent total root mean square error (RMSE). All indices have been standardized (*) by σ<sub>r</sub>. RMSE* values less than 1 σ<sub>r</sub> (bold circle) indicate that the model performs better than the average of the reference dataset. Thinner circles represent RMSE* values of 2, 3, and 4 σr for reference.</p>
+</div>
+<p><br/> <br/> <br/></p>
+</div>
+</div>
+<div id="uncertainty-in-united-states-coastal-wetland-greenhouse-gas-inventorying" class="section level1">
+<h1>Uncertainty in United States coastal wetland greenhouse gas inventorying</h1>
+<p><br/></p>
+<p><strong>Citation</strong>: Holmquist, J.R., Windham-Myers, L., Bernal, B., Byrd, K. B., Crooks, S., Gonneea, M. E., Herold, N., Knox, S. H., Kroeger, K., McCombs, J., Megonigal, J. P., Meng, L., Morris, J. T., Sutton-Grier, A. E., Troxler, T. G., Weller, D. E. (2018). Uncertainty in United States coastal wetland greenhouse gas inventorying. Environmental Research Letters. <a href="https://doi.org/10.1088/1748-9326/aae157" class="uri">https://doi.org/10.1088/1748-9326/aae157</a>.</p>
+<p><strong>Abstract</strong>: Coastal wetlands store carbon dioxide (CO<sub>2</sub>) and emit CO<sub>2</sub> and methane (CH<sub>4</sub>) making them an important part of greenhouse gas (GHG) inventorying. In the contiguous United States CONUS), a coastal wetland inventory was recently calculated by combining maps of wetland type and change with soil, biomass, and CH<sub>4</sub> flux data from a literature review. We assess uncertainty in this developing carbon monitoring system to quantify confidence in the inventory process itself and to prioritize future research. We provide a value-added analysis by defining types and scales of uncertainty for assumptions, burial and emissions datasets, and wetland maps, simulating 10 000 iterations of a simplified version of the inventory, and performing a sensitivity analysis. Coastal wetlands were likely a source of net-CO<sub>2</sub>-equivalent (CO<sub>2</sub>e) emissions from 2006–2011. Although stable estuarine wetlands were likely a CO<sub>2</sub>e sink, this effect was counteracted by catastrophic soil losses in the Gulf Coast, and CH<sub>4</sub> emissions from tidal freshwater wetlands. The direction and magnitude of total CONUS CO<sub>2</sub>e flux were most sensitive to uncertainty in emissions and burial data, and assumptions about how to calculate the inventory. Critical data uncertainties included CH<sub>4</sub> emissions for stable freshwater wetlands and carbon burial rates for all coastal wetlands. Critical assumptions included the average depth of soil affected by erosion events, the method used to convert CH<sub>4</sub> fluxes to CO<sub>2</sub>e, and the fraction of carbon lost to the atmosphere following an erosion event. The inventory was relatively insensitive to mapping uncertainties. Future versions could be improved by collecting additional data, especially the depth affected by loss events, and by better mapping salinity and inundation gradients relevant to key GHG fluxes. Social Media Abstract: US coastal wetlands were a recent and uncertain source of greenhouse gasses because of CH<sub>4</sub> and erosion.</p>
+<p><br/></p>
+<div id="uncertainty-in-total-flux-scenario" class="section level2">
+<h2>Uncertainty in Total Flux Scenario</h2>
+<p><br/></p>
+<div class="figure">
+<img src="images/6%20Monte%20Carlo%20Histogram%20Results%203p5%20by%206%20180808.jpg" alt="CONUS inventory results of 10,000 Monte Carlo simulations, shaded to distinguish simulations resulting in a net-emission (orange) or a net-storage (blue) scenario. The thick gray vertical line at 0 separates these scenarios. Points indicate medians, and black horizontal lines the upper and lower 95% confidence intervals. Top panels separate fluxes from estuarine and palustrine wetlands, and from wetlands that were lost from those that were stable or gained area. The bottom panel shows net-annualized emissions from 2006–2011." width="336" />
+<p class="caption">CONUS inventory results of 10,000 Monte Carlo simulations, shaded to distinguish simulations resulting in a net-emission (orange) or a net-storage (blue) scenario. The thick gray vertical line at 0 separates these scenarios. Points indicate medians, and black horizontal lines the upper and lower 95% confidence intervals. Top panels separate fluxes from estuarine and palustrine wetlands, and from wetlands that were lost from those that were stable or gained area. The bottom panel shows net-annualized emissions from 2006–2011.</p>
+</div>
+<p><br/></p>
+</div>
+<div id="top-15-sources-of-uncertainty" class="section level2">
+<h2>Top 15 Sources of Uncertainty</h2>
+<p><br/></p>
+<div class="figure">
+<img src="images/7%20Sensitivity%20Analysis%203%20by%206%20180808.jpg" alt="These fifteen inputs introduced the most uncertainty into the Coastal Wetland National Greenhouse Gas Inventory (NGGI) according to a one-at-a-time sensitivity analysis. GWP: global warming potential, SGWP: sustained GWP, SGCP: sustained global cooling potential, NWI: National Wetlands Inventory, EAB: estuarine aquatic bed, OW: open water, UCS: unconsolidated shore, PAB: palustrine aquatic bed." width="576" />
+<p class="caption">These fifteen inputs introduced the most uncertainty into the Coastal Wetland National Greenhouse Gas Inventory (NGGI) according to a one-at-a-time sensitivity analysis. GWP: global warming potential, SGWP: sustained GWP, SGCP: sustained global cooling potential, NWI: National Wetlands Inventory, EAB: estuarine aquatic bed, OW: open water, UCS: unconsolidated shore, PAB: palustrine aquatic bed.</p>
+</div>
+<p><br/> <br/> <br/></p>
+</div>
+</div>
+<div id="u.s.-climate-alliance-natural-and-working-lands-learning-lab" class="section level1">
+<h1>U.S. Climate Alliance Natural and Working Lands Learning Lab</h1>
+<p><br/></p>
+<p><strong>Presented</strong>: Holmquist JR, J Fargione, K Kroeger, JP Megonigal, D Weller, L Windham-Myers (2018). Opportunities for Wetland Greenhouse Gas Emission Reduction from Coastal States in the Contiguous U.S. American Geophysical Union (AGU), D.C.</p>
+<p><strong>Abstract</strong>: In the U.S., many former tidal wetlands have limited tidal connection with the sea, causing salinity to decline to the point where CH<sub>4</sub> emissions increase. Many wetlands drained for farming or other uses emit more CO<sub>2</sub> as soil decays and elevation is lost. We estimated the potential for reconnecting tidal flow to these tidal wetlands in order to avoid CH<sub>4</sub> emissions and reestablish soil carbon burial. For each coastal state in the contiguous U.S., we mapped natural, partially drained, impounded, and farmed wetlands falling within the range of intertidal elevation. We estimated all fluxes associated with soil carbon burial or loss, biomass change, and methane emission. We categorized each flux as either manageable or unmanageable, according to whether or not there is a direct restoration activity that might lower emissions or restart carbon burial. For all contiguous U.S. states, we mapped 0.66 million hectares of restorable wetlands, and we estimate 847 million tonnes of carbon are buried in the top 1 m of soil in natural wetlands. Of the manageable emissions, the vast majority come from the missed opportunity for carbon burial in partially drained coastal wetlands and wetlands converted to farmland. States with notable proportions of low elevation farmed areas include California and Washington. Partially drained wetlands are a prominent landcover type in North Carolina and New Jersey. States with relatively high proportions of low elevation impounded wetlands include California and Oregon. Future iterations of this analysis will include uncertainty and sensitivity analyses of the datasets and assumptions employed in order to establish levels of confidence and prioritize future research efforts. Future iterations will also include an assessment of the cost to benefit ratio of restoring wetlands from a carbon market perspective. The present results are a first cut establishing the scales and patterns of coastal restoration opportunities for coastal state-level stakeholders that seek to manage natural and working lands to reduce greenhouse gas emissions.</p>
+<p><br/></p>
+<div id="single-state" class="section level2">
+<h2>Single State</h2>
+<p><br/></p>
+<div class="figure">
+<img src="images/CA_tidal_emission_breakdown.jpg" alt="Example of the magnitude of manageable and unmanageable coastal wetlands emissions and removals for CA." width="480" />
+<p class="caption">Example of the magnitude of manageable and unmanageable coastal wetlands emissions and removals for CA.</p>
+</div>
+<p><br/></p>
+</div>
+<div id="all-climate-alliance-states" class="section level2">
+<h2>All Climate Alliance States</h2>
+<p><br/></p>
+<div class="figure">
+<img src="images/Climate%20Alliance%20States%20Manageable%20and%20Unmanageable%20Emissions.jpeg" alt="State to state comparison of manageable and unmanageable coastal wetlands emissions and removals accross all U.S. Climate Alliance States" width="480" />
+<p class="caption">State to state comparison of manageable and unmanageable coastal wetlands emissions and removals accross all U.S. Climate Alliance States</p>
+</div>
+<p><br/></p>
+</div>
+<div id="example-infographic" class="section level2">
+<h2>Example Infographic</h2>
+<p><br/></p>
+<div class="figure">
+<img src="images/CA%20Tidal%20Wetlands.jpg" alt="Example infographic distributed to coastal state-level stakeholders at the U.S. Climate Alliance Natural and Working Lands Learning Lab." width="672" />
+<p class="caption">Example infographic distributed to coastal state-level stakeholders at the U.S. Climate Alliance Natural and Working Lands Learning Lab.</p>
+</div>
+<p><br/> <br/> <br/></p>
+</div>
+</div>
+<div id="coastal-mappping-projects" class="section level1">
+<h1>Coastal Mappping Projects</h1>
+<p><br/></p>
+<p><strong>Note</strong>: These figures represent summaries of in progress work. Please contact James Holmquist for any questions you may have. Please ask for permission before redistributing.</p>
+<p><br/></p>
+<div id="tidal-restoration-mapping" class="section level2">
+<h2>Tidal Restoration Mapping</h2>
+<p><br/></p>
+<div class="figure">
+<img src="images/SealBeachTSWIWithLetters.jpg" alt="A and B show a tidal surface water index from 2001-2006 and 2006-2010 for Seal Beach, CA. Tidal areas are shown in white. C. Shows a difference between these two maps with the red area emphasizing a tidal restoration that occurred in 2006." width="672" />
+<p class="caption">A and B show a tidal surface water index from 2001-2006 and 2006-2010 for Seal Beach, CA. Tidal areas are shown in white. C. Shows a difference between these two maps with the red area emphasizing a tidal restoration that occurred in 2006.</p>
+</div>
+<p><br/></p>
+</div>
+<div id="seasonal-vegetation-monitoring" class="section level2">
+<h2>Seasonal Vegetation Monitoring</h2>
+<p><br/></p>
+<div class="figure">
+<img src="images/GCREW%20NDVI.jpg" alt="Results of a pilot study at the Global Change Research Wetlands showing a change in normalized difference of vegetation index (a plant greenness indicator) over the course of the 2017 spring green up." width="672" />
+<p class="caption">Results of a pilot study at the Global Change Research Wetlands showing a change in normalized difference of vegetation index (a plant greenness indicator) over the course of the 2017 spring green up.</p>
+</div>
+<p><br/></p>
+</div>
+</div>
+
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>

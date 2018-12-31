@@ -1,0 +1,17 @@
+name: james-r-holmquist-research-website
+output_dir: '.'
+navbar:
+  title: James R Holmquist
+  subtitle: Coastal Carbon Research
+  left:
+  - text: Home
+    href: index.html
+  - text: Cirriculum Vitae
+    href: cv.html
+  - text: Data Visualizations
+    href: data_visualizations.html
+
+output:
+  html_document:
+    lib_dir: site_libs
+    self_contained: no
