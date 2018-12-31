@@ -6,7 +6,7 @@ navbar:
   left:
   - text: Home
     href: index.html
-  - text: Cirriculum Vitae
+  - text: Curriculum Vitae
     href: cv.html
   - text: Data Visualizations
     href: data_visualizations.html
