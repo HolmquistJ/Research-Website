@@ -25,9 +25,10 @@ _Research Associate_: February 2019-Present
 _Ecologist_: January 2018-February 2019  
 _Postdoctoral Research Fellow_: March 2015-January 2018  
 
-__UCLA Institute of the Environment and Sustainability (IoES)__: _Postdoctoral Scholar_: September 2013–May 2015  
+__UCLA Institute of the Environment and Sustainability (IoES)__:  
+_Postdoctoral Scholar_: September 2013–May 2015  
 
-__UCLA EEB__: _Graduate Student Researcher and Teaching Assistant_: July 2008–September 2013 
+__UCLA EEB__: _Graduate Student Researcher and Teaching Assistant_: July 2008–September 2013  
 
 __LMU Biology Department__: _Undergraduate Researcher and Teaching Assistant_: May 2005–June 2008  
 
@@ -87,7 +88,11 @@ __Holmquist, J.R.__, Brazolla, N., Crooks, S., Kroeger, K., Megonigal, J.P., Wel
 
 __Holmquist, J.R.__ et al. Vegetation and Elevation Dynamics at the Highly Studied Global Change Research Wetland. Targeted Journal: TBD.
 
-### Datasets and Research Products
+### Datasets, Code Repositories and Other Research Products
+
+__Holmquist, J.R.__, L. Windham-Myers, N. Bliss, S. Crooks, J.T. Morris, P.J. Megonigal, T. Troxler, D. Weller et al. (2019). Tidal Wetland Soil Carbon Stocks for the Conterminous United States, 2006-2010. ORNL DAAC, Oak Ridge, Tennessee, USA. https://doi.org/10.3334/ORNLDAAC/1612  
+
+__Holmquist, J.R.__ (2018). [GitHub Repository] Coastal Wetland NGGI Sensitivity Analysis. https://github.com/Smithsonian/Coastal-Wetland-NGGI-Sensitivity-Analysis
 
 __Holmquist, J. R.__ et al. (2018). [Dataset:] Accuracy and Precision of Tidal Wetland Soil Carbon Mapping in the Conterminous United States: Public Soil Carbon Data Release. https://doi.org/10.25572/ccrcn/10088/35684.
 
@@ -221,6 +226,7 @@ __Holmquist JR__ (2016). [invited] Coastal Wetlands: Vulnerability and Value. Ho
 *  Q&A with Landsat Science. How Much Swamp Are We Talking Here? Towards Better Mapping of Coastal Wetlands. 13 December 2017. [Link](https://landsat.gsfc.nasa.gov/how-much-swamp-are-we-talking-here-towards-better-mapping-of-coastal-wetlands).
 
 ## Other Science Outreach and Service
+*  Manager of the Twitter account [\@CoastalCarbon](https://twitter.com/CoastalCarbon) | 530 followers as of Feb. 20, 2019.
 *  ‘Roving Expert’ on Coastal Wetland Restoration Opportunities for the U.S. Climate Alliance Learning Lab on Natural and Working Lands – July 2018
 *  Skype a Scientist participant – December 2017
 *  Chesapeake Bay Sentinel Site Coalition Coordinator Hiring Committee Member – November 2017
