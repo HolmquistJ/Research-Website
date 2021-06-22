@@ -33,7 +33,7 @@ __LMU Biology Department__: _Undergraduate Researcher and Teaching Assistant_: M
 ## Peer Reviewed Publications
 __[23 articles in print since 2014]__  
 
-__Holmquist, J. R.__, Brown, L. N., & MacDonald, G. M. Localized Scenarios and Latitudinal Patterns of Vertical and Lateral Resilience of Tidal Marshes to Sea‐Level Rise in the Contiguous United States. Earth's Future, e2020EF001804.
+__Holmquist, J. R.__, Brown, L. N., & MacDonald, G. M. Localized Scenarios and Latitudinal Patterns of Vertical and Lateral Resilience of Tidal Marshes to Sea‐Level Rise in the Contiguous United States. Earth's Future, e2020EF001804. https://doi.org/10.1029/2020EF001804. 
 
 __Holmquist, J. R.__, Schile-Beers, L., Buffington, K., Lu, M., Mozdzer, T. J., Riera, J., ... & Megonigal, J. P. (2021). Scalability and performance tradeoffs in quantifying relationships between elevation and tidal wetland plant communities. Marine Ecology Progress Series, 666, 57-72. https://doi.org/10.3354/meps13683.
 
