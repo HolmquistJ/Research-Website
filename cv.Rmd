@@ -21,19 +21,25 @@ __B.S. Biology__, Loyola Marymount University (LMU), Los Angeles, 2008
 ## Employment
 
 __Smithsonian Environmental Research Center (SERC)__  
-_Research Associate_: February 2019-Present  
-_Ecologist_: January 2018-February 2019  
+_Ecologist_: January 2018-Present  
 _Postdoctoral Research Fellow_: March 2015-January 2018  
 
-__UCLA Institute of the Environment and Sustainability (IoES)__:  
-_Postdoctoral Scholar_: September 2013–May 2015  
+__UCLA Institute of the Environment and Sustainability (IoES)__: _Postdoctoral Scholar_: September 2013–May 2015  
 
-__UCLA EEB__: _Graduate Student Researcher and Teaching Assistant_: July 2008–September 2013  
+__UCLA EEB__: _Graduate Student Researcher and Teaching Assistant_: July 2008–September 2013 
 
 __LMU Biology Department__: _Undergraduate Researcher and Teaching Assistant_: May 2005–June 2008  
 
 ## Peer Reviewed Publications
-__[19 articles in print, 1 in revision, 5 in preparation]__  
+__[23 articles in print since 2014]__  
+
+__Holmquist, J. R.__, Brown, L. N., & MacDonald, G. M. Localized Scenarios and Latitudinal Patterns of Vertical and Lateral Resilience of Tidal Marshes to Sea‐Level Rise in the Contiguous United States. Earth's Future, e2020EF001804.
+
+__Holmquist, J. R.__, Schile-Beers, L., Buffington, K., Lu, M., Mozdzer, T. J., Riera, J., ... & Megonigal, J. P. (2021). Scalability and performance tradeoffs in quantifying relationships between elevation and tidal wetland plant communities. Marine Ecology Progress Series, 666, 57-72. https://doi.org/10.3354/meps13683.
+
+Malhotra, A., Todd-Brown, K., Nave, L. E., Batjes, N. H., __Holmquist, J. R.__, et al. (2019). The landscape of soil carbon data: emerging questions, synergies and databases. Progress in Physical Geography: Earth and Environment, 43(5), 707-719. https://doi.org/10.1177/0309133319873309.
+
+Rogers, K., Kelleway, J. J., Saintilan, N., Megonigal, J. P., Adams, J. B., __Holmquist, J. R.__, et al. (2019). Wetland carbon storage controlled by millennial-scale variation in relative sea-level rise. Nature, 567(7746), 91-95. https://doi.org/10.1038/s41586-019-0951-7
 
 __Holmquist, J.R.__ Windham-Myers, L., Bernal, B., Byrd, K.B., Crooks, S., Gonneea, M.E., Herold, N., Knox, S.H., Kroeger, K., McCombs, J., Megonigal, J.P., Meng, L., Morris, J.T., Sutton-Grier, A.E., Troxler, T.G., Weller, D. (2018). Uncertainty in U.S. Coastal Wetland National Greenhouse Gas Inventorying. Environmental Research Letters. https://doi.org/10.1088/1748-9326/aae157.  
 
@@ -44,6 +50,8 @@ __Holmquist, J. R.__, Windham-Myers, L., Bliss, N., Crooks, S., Morris, J. T., M
 Byrd, K. B., Ballanti, L., Thomas, N., Nguyen, D., __Holmquist, J. R.__, Simard, M., & Windham-Myers, L. (2018). A remote sensing-based model of tidal marsh aboveground carbon stocks for the conterminous United States. ISPRS Journal of Photogrammetry and Remote Sensing, 139, 255-271.
 
 Najjar, R. G., Herrmann, M., Alexander, et al including __Holmquist J.R.__ (2018). Carbon budget of tidal wetlands, estuaries, and shelf waters of Eastern North America. Global Biogeochemical Cycles, 32(3), 389-416.
+
+Thorne, K., MacDonald, G., Guntenspergen, G., Ambrose, R., Buffington, K., Dugger, B., ... & __Holmquist, J.__ (2018). US Pacific coastal wetland resilience and vulnerability to sea-level rise. Science Advances, 4(2), eaao3270.
 
 Rosencranz, J. A., Brown, L. N., __Holmquist, J. R.__, Sanchez, Y., MacDonald, G. M., & Ambrose, R. F. (2017). The Role of Sediment Dynamics for Inorganic Accretion Patterns in Southern California’s Mediterranean-Climate Salt Marshes.Estuaries and Coasts,40(5), 1371-1384.
 
@@ -71,28 +79,30 @@ Loisel, J., Yu, Z., Beilman, D. W., Camill, P., Alm, J., Amesbury, M. J. et al i
 
 __Holmquist, J. R.__, MacDonald, G. M., & Gallego-Sala, A. (2014). Peatland initiation, carbon accumulation, and 2 ka depth in the James Bay Lowland and adjacent regions. Arctic, Antarctic, and Alpine research, 46(1), 19-39.
 
-### Publications in Revision
-Rogers, K., Kelleway, J. et al. including __Holmquist, J.R.__ Capacity of coastal wetlands to sequester carbon is related to sea-level rise. Targeted Journal: Nature.
 
-### Publications in Preparation 
-__In order of planned submission__
-<br/>
+### Datasets and Research Products
 
-__Holmquist, J.R.__, Brown, L.N., MacDonald, G.M. Patterns of Coastal Marsh Vulnerability to Relative Sea-Level Rise in the Conterminous U.S. Targeted Journal: Earth's Futures.
+Morris, J.T., K. Todd-Brown, J.R. Holmquist. [GitHub Repository] Cohort Theory Model. https://github.com/tilbud/rCTM
 
-__Holmquist, J.R.__, Fargione, J., Kroeger, K., Megonigal, J.P., Weller, D., Windham-Myers, L. Regional Opportunities for Coastal Wetland Greenhouse Gas Emission Reduction in the Contiguous United States. Targeted Journal: Nature Climate Change.
+Holmquist, J.R., and L. Windham-Myers. 2021. Relative Tidal Marsh Elevation Maps with Uncertainty for Conterminous USA, 2010. ORNL DAAC, Oak Ridge, Tennessee, USA. https://doi.org/10.3334/ORNLDAAC/1844.
 
-__Holmquist, J.R.__ et al. The Sensitivity of Tidal Wetland Resiliency Projections to Remotely Sensed Elevation Bias. Targeted Journal: Estuaries and Coasts.
+Holmquist, J., Brown, L. N., & MacDonald, G. M. (2021). Dataset: Localized Scenarios and Latitudinal Patterns of Vertical and Lateral Resilience of Tidal Marshes to Sea-Level Rise in the Contiguous United States (Version 1). The Smithsonian Institution. https://doi.org/10.25573/serc.12921746.v1.
 
-__Holmquist, J.R.__, Brazolla, N., Crooks, S., Kroeger, K., Megonigal, J.P., Weller, D., Windham-Myers, L. Using Tide-Series Analysis to Detect Coastal Restoration Events and Opportunities. Targeted Journal: Remote Sensing of the Environment.
+Holmquist, J., Riera, J., Shile-Beers, L., & Megonigal, P. (2021). Elevation and Vegetation Data for the Global Change Research Wetland, Summer 2016 (Version 1). The Smithsonian Institution. https://doi.org/10.25573/serc.9589337.v1.
 
-__Holmquist, J.R.__ et al. Vegetation and Elevation Dynamics at the Highly Studied Global Change Research Wetland. Targeted Journal: TBD.
+Holmquist, J.R., J. Riera, J.P. Megonigal, L. Shile-Beers, K.J. Buffington, and D.E. Weller. (2021). Digital Elevation Models for the Global Change Research Wetland, Maryland, USA, 2016. ORNL DAAC, Oak Ridge, Tennessee, USA. https://doi.org/10.3334/ORNLDAAC/1793
 
-### Datasets, Code Repositories and Other Research Products
+Megonigal, P., & Holmquist, J. (2021). 1999 CO2xCommunity Deep Root Biomass (Version 1). The Smithsonian Institution. https://doi.org/10.25573/serc.13073249.
 
-__Holmquist, J.R.__, L. Windham-Myers, N. Bliss, S. Crooks, J.T. Morris, P.J. Megonigal, T. Troxler, D. Weller et al. (2019). Tidal Wetland Soil Carbon Stocks for the Conterminous United States, 2006-2010. ORNL DAAC, Oak Ridge, Tennessee, USA. https://doi.org/10.3334/ORNLDAAC/1612  
+Whigham, D., Holmquist, J., Ogburn, M., Goodison, M., McFarland, L., & Megonigal, P.. (2020). Dataset: 2015-2018 USA-MDA TMON Marsh Biomass Surveys (Version 2). The Smithsonian Institution. https://doi.org/10.25573/serc.12636404.v2.
 
-__Holmquist, J.R.__ (2018). [GitHub Repository] Coastal Wetland NGGI Sensitivity Analysis. https://github.com/Smithsonian/Coastal-Wetland-NGGI-Sensitivity-Analysis
+Holmquist, J.R. Windham-Myers, L., Bernal, B., Byrd, K.B., Crooks, S. et al. (2019). Spatial Data on U.S. Coastal Wetland Greenhouse Gas Inventory Uncertainty. Oak Ridge, Tennessee, USA. https://doi.org/10.3334/ORNLDAAC/1650
+
+Holmquist, J.R., M. Lonneman, D. Klinges (2019). The Coastal Carbon Atlas.
+
+Holmquist, J.R., L. Windham-Myers, N. Bliss, S. Crooks, J.T. Morris, P.J. Megonigal, T. Troxler, D. Weller et al. (2019). Tidal Wetland Soil Carbon Stocks for the Conterminous United States, 2006-2010. ORNL DAAC, Oak Ridge, Tennessee, USA. https://doi.org/10.3334/ORNLDAAC/1612
+
+Holmquist, J.R. (2018). [GitHub Repository] Coastal Wetland NGGI Sensitivity Analysis. https://github.com/Smithsonian/Coastal-Wetland-NGGI-Sensitivity-Analysis
 
 __Holmquist, J. R.__ et al. (2018). [Dataset:] Accuracy and Precision of Tidal Wetland Soil Carbon Mapping in the Conterminous United States: Public Soil Carbon Data Release. https://doi.org/10.25572/ccrcn/10088/35684.
 
@@ -109,43 +119,34 @@ Thorne, K.M., MacDonald, G.M. et al. including __Holmquist, J.R.__ (2016). [Open
 __Holmquist, J.R.__ (2013). [Ph.D. Dissertation] Holocene Peatland Carbon Accumulation, Ecology, and Hydrology in the Canadian James Bay Lowlands. University of California, Los Angeles.
 
 ## Grants and Contracts Awarded
-__\$609,538 total since 2017__  
-<br/>
-__Mapping Greenhouse Gas Relevant Tidal Elevation Gradients and Management Activities in U.S. Coastal Wetlands__
-PI: James R Holmquist  
-Description: Interagency Agreement Between SERC and USGS Landcarbon Program  
-POC: Zhiliang Zhu (zzhu@usgs.gov)  
-Current Award: \$50,000, Pending Award: \$20,000  
-Award Period: August 2018 – September 2020  
+__[\$1,784,264 awarded since 2017]__  
 
-__Mapping Coastal Management Opportunities for Greenhouse Gas Reduction in Climate Alliance States__
-PI: James R Holmquist  
-Description: Contract for Services Between SERC and the Nature Conservancy  
-POC: Joseph Fargione (jfargione@tnc.org)  
-Current Award: \$10,000  
-Award Period: June 2018 – December 2018  
-
-__Research Coordination Network (RCN): Building a Collaborative Network for Coastal Wetland Carbon Cycle Synthesis__
-PI: Dr. Emmett Duffy, Smithsonian Environmental Research Center  
-Program Name: NSF-DEB-Ecosystems Program  
-POC: Dr. Katrina Schäfer, 703-292-2762 (kschafer@nsf.gov)  
-Current Award: \$499,938  
-Award Period: 1 March 2017 - 30 April 2021  
-
-__US GHG Inventory--Impounded Wetlands__
-PI: J Patrick Megonigal  
-Description: Subaward from NOAA Grant (NA16NMF4630103) via Silvestrum Climate Associates and Restore America’s Estuaries  
-POC: Stephen Crooks (steve.crooks@silvestrum.com) and Stefanie Simpson (ssimpson@estuaries.org)  
-Past Award: \$29,600  
-Award Period: 1 June 2017 - 31 March 2018  
+*  2021 – Smithsonian Federal Allotment - $2,000  
+*  2020 – Mapping Tidal Elevation and Management Categories - Interagency Agreement between SERC and USGS Landcarbon - $20,000  
+*  2020 – Assessing State-Specific Blue Carbon Information in the U.S. – Contract with Pew Charitable Trusts - $35,000  
+*  2020 - Smithsonian Federal Allotment - $1,750  
+*  2019-2022 - Data-Model Integration for Monitoring and Forecasting Coastal Wetland Carbon   Exchanges: Serving Local to National Greenhouse Gas Inventories: Grant from NASA Carbon Monitoring Systems - $1,123,976
+*  2019 - Smithsonian Federal Allotment - $2,000  
+*  2019 - Smithsonian Loeb Research Funds - $10,000  
+*  2021 – Smithsonian Federal Allotment - $2,000  
+*  2020 – Mapping Tidal Elevation and Management Categories - Interagency Agreement between SERC and USGS Landcarbon - $20,000  
+*  2020 – Assessing State-Specific Blue Carbon Information in the U.S. – Contract with Pew Charitable Trusts - $35,000  
+*  2020 - Smithsonian Federal Allotment - $1,750  
+*  2019-2022 - Data-Model Integration for Monitoring and Forecasting Coastal Wetland Carbon Exchanges: Serving Local to National Greenhouse Gas Inventories: Grant from NASA Carbon Monitoring Systems - $1,123,976  
+*  2019 - Smithsonian Federal Allotment - $2,000  
+*  2019 - Smithsonian Loeb Research Funds - $10,000  
+*  2018-Present - Mapping Greenhouse Gas Relevant Tidal Elevation Gradients and Management Activities in U.S. Coastal Wetlands. Interagency Agreement between SERC and USGS Landcarbon - $50,000  
+*  2018 - Mapping Coastal Management Opportunities for Greenhouse Gas Reduction in Climate Alliance States. Contract between SERC and the Nature Conservancy – $10,000  
+*  2017-2021 - Research Coordination Network (RCN): Building a Collaborative Network for Coastal Wetland Carbon Cycle Synthesis. NSF-DEB-Ecosystems Program - $499,938  
+*  2017 - US GHG Inventory–Impounded Wetlands. Subaward from NOAA Grant (NA16NMF4630103) via Silvestrum Climate Associates and Restore America’s Estuaries - $29,600  
 
 ## Teaching Experience
 
 __Coastal Carbon Research Coordination Network (CCRCN) Outreach__: GitHub lessons for Soils Working Group (November 2018), R-Code lessons for Ocean Carbon & Biogeochemistry Lateral Flux Working Group (August 2018), Developed R-Code Lesson using CCRCN Soil Carbon Synthesis (July 2018; https://serc.si.edu/coastalcarbon/r-coding).
 
-__Data/Software Carpentry Instructor__: Lead 2-Day Workshop at SERC (March 2018), Training Completed (February 2018)
+__Data/Software Carpentry Instructor__: Lead 2-Day Workshops at SERC (June 2021, June 2020, June 2019, March 2018), Training Completed (February 2018)
 
-__Undergraduate Research Mentor at SERC__: Nicoletta Brazzola (Fall 2017), Jefferson Riera (Summer 2016)
+__Undergraduate Research Mentor at SERC__: Minjee Jung (Summer 2021), Rebecca Lee (Winter 2019), Lainey Reed (Summer 2019), Nicoletta Brazzola (Fall 2017), Jefferson Riera (Summer 2016)
 
 __Undergraduate Research Supervisor at UCLA__: Justine Nikeitan (2014-2015), Tongwei Weng (Summer 2014), Breeanna Bergeron-Matsumoto (2014), Alvin Li (2011-2014), Maoqiao Mao (Summer 2013), Sam Geldin (2013), Julianne Lee, Michelle Lim, Loren Quintanar (2011-2012), Scott Guzman, Nikola Kondov, Karly Wagner (2010-2011), Luis Aguilar, Jennifer Kim (2009-2010), Siduo Zhang (Summer 2009)
 
@@ -172,9 +173,24 @@ _Howard Towner Memorial Scholarship_: 2007-2008
 _Rev. Alfred J. Kilp Memorial Scholarship_: 2004  
  
 ## Notable Recent Research Presentations
+
+__Holmquist JR__. Update from the Coastal Carbon Network (2021). 7th Annual Global Change Research Wetland Symposium, Virtual. 
+
+__Holmquist JR__, Megonigal J Patrick (2020). Townhall: Updates from the Coastal Carbon Research Coordination Network: Year 3. American Geophysical Union (AGU), Virtual.
+
+__Holmquist JR__, JP Megonigal (2019). [Town Hall] Updates from the Coastal Carbon Research Coordination Network: Year 2. AGU, San Francisco.
+
+__Holmquist JR__ (2019). Data-Model Integration for Forecasting Carbon Sequestration in Coastal Wetland Soils. Coastal Estuarine Research Foundation, Mobile AL.
+
+__Holmquist, JR__ (2019). [keynote] The Coastal Carbon Network. Society of Wetland Scientists 2019 Twitter Symposium. https://twitter.com/i/events/1193229520284766208?s=13
+
+__Holmquist, JR__ (2019). [invited] Mapping Wetland Restoration as a Natural Climate Solution. Bringing Wetlands to Market, Plymouth, MA.
+
+__Holmquist, JR__ (2019). Data-Model Integration for Forecasting Carbon Sequestration in Coastal Wetland Soils. Ecological Forecasting Initiative, D.C. (https://youtu.be/mwo1TIOiTmA)
+
 __Holmquist JR__, JP Megonigal (2018). [Town Hall] Updates from the Coastal Carbon Research Coordination Network: Year 1. American Geophysical Union (AGU), D.C.
 
-__Holmquist JR__, J Fargione, K Kroeger, JP Megonigal, D Weller, L Windham-Myers (2018).  Opportunities for Wetland Greenhouse Gas Emission Reduction from Coastal States in the Contiguous U.S. American Geophysical Union (AGU), D.C.
+__Holmquist JR__, J Fargione, K Kroeger, JP Megonigal, D Weller, L Windham-Myers (2018).  Opportunities for Wetland Greenhouse Gas Emission Reduction from Coastal States in the Contiguous U.S. AGU, D.C.
 
 __Holmquist JR__ (2018). Uncertainty in United States Greenhouse Gas Inventorying. NASA Carbon Monitoring Systems September Science Team meeting.
 
@@ -184,7 +200,7 @@ __Holmquist JR__ (2018). Counting in Muddy Waters. SERC Science and Coffee Light
 
 __Holmquist JR__ (2018). How a little bit of math and a lot of data synthesis can show us what our next blue carbon research project needs to be. 5th Annual GCReW Symposium Villanova University, PA.
 
-__Holmquist JR__, J Tang, P Megonigal, S Crooks, J Ramos (2017). [Town Hall] Introducing a U.S.-based Research Coordination Network for Coastal Carbon. American Geophysical Union (AGU), New Orleans, LA.
+__Holmquist JR__, J Tang, P Megonigal, S Crooks, J Ramos (2017). [Town Hall] Introducing a U.S.-based Research Coordination Network for Coastal Carbon. AGU, New Orleans, LA.
 
 __Holmquist JR__ et al. (2017). How much swamp are we talking here?: Propagating uncertainty about the area of coastal wetlands into the U.S. greenhouse gas inventory. AGU, New Orleans, LA.
 
@@ -203,6 +219,7 @@ __Holmquist JR__, J Riera et al. (2016). [invited] Limits to ‘Upscaling’ a M
 __Holmquist JR__ (2016). [invited] Coastal Wetlands: Vulnerability and Value. Horn Point Lab, University of Maryland Center for Environmental Sciences, Cambridge, MD.
 
 ## Recent Relevant Training  
+*  Near Term Ecological Forecasting Short Course, Boston University (2019)
 *  Media Training (Philips Media Training, LLC; 2018)
 *  SESYNC Bayesian Hierarchical Modeling Course (2017)
 *  NOAA Water-Levels Training Workshop (2017)
@@ -210,6 +227,11 @@ __Holmquist JR__ (2016). [invited] Coastal Wetlands: Vulnerability and Value. Ho
 *  Google Earth Engine User’s-Summit (2016)
 
 ## Peer Reviewer Assignments
+*  2021 – NASA Carbon Monitoring System Proposal Review Panel
+*  2019 – Journal of Geophysical Research: Biogeosciences
+*  2019 – Environmental Software
+*  2019 - Nature Communications
+*  2019 - Scientific Reports
 *  2018 - Journal of the American Water Resources Association
 *  2018 - Science Advances
 *  2017 - Global Biogeochemical Cycles
@@ -221,12 +243,12 @@ __Holmquist JR__ (2016). [invited] Coastal Wetlands: Vulnerability and Value. Ho
 *  2015 - Climate Research 
 
 ## Press 
+*  Project Featured on for Shorelines Blog Post: How the “Blue Methane” Team Used COVID Restrictions To Get More Data Than Ever. [Link](https://sercblog.si.edu/how-the-blue-methane-team-used-covid-restrictions-to-get-more-data-than-ever/).
 *  Interviewed for E&E News. U.S. tidal areas could hold 800M tons of carbon — study. 22 June 2018. [Link](https://www.eenews.net/greenwire/2018/06/22/stories/1060086177).
 *  Interviewed for SERC Blog Post and Press Release. 800 Million Tons of Blue Carbon May Lie Buried in U.S. Tidal Wetlands. 21 June 2018. [Link](https://serc.si.edu/media/press-release/800-million-tons-blue-carbon-may-lie-buried-us-tidal-wetlands).
 *  Q&A with Landsat Science. How Much Swamp Are We Talking Here? Towards Better Mapping of Coastal Wetlands. 13 December 2017. [Link](https://landsat.gsfc.nasa.gov/how-much-swamp-are-we-talking-here-towards-better-mapping-of-coastal-wetlands).
 
 ## Other Science Outreach and Service
-*  Manager of the Twitter account [\@CoastalCarbon](https://twitter.com/CoastalCarbon) | 530 followers as of Feb. 20, 2019.
 *  ‘Roving Expert’ on Coastal Wetland Restoration Opportunities for the U.S. Climate Alliance Learning Lab on Natural and Working Lands – July 2018
 *  Skype a Scientist participant – December 2017
 *  Chesapeake Bay Sentinel Site Coalition Coordinator Hiring Committee Member – November 2017
